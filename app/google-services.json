@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072629440907",
+    "project_id": "fir-imageuplaod-59fcc",
+    "storage_bucket": "fir-imageuplaod-59fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072629440907:android:be4b6bfa75aa0ea0894f8e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimageuplaod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072629440907-fdbm58lg7mu20gh63j8pht41gtse60iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLux8oyACJL1QNZ1TU9OjMqvxfC3GrnlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072629440907-fdbm58lg7mu20gh63j8pht41gtse60iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
